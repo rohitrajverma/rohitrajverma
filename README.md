@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @rohitrajverma
 - 👀 I’m interested in JavaScript and its frameworks
-- 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on any open source js project
 - 📫 Reach me on my email or twitter 
 
